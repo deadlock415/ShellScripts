@@ -1,7 +1,5 @@
 #! /bin/bash
-# Name : Arpit Chalakh
-# Roll No : 44
-# Batch B2
+
 
 while :
 do
