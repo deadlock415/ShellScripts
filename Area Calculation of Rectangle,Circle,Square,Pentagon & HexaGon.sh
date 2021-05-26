@@ -1,7 +1,5 @@
 #! /bin/bash
-#Arpit Chalakh
-#Roll No: 44
-#Branch : B2
+
 while :
 do
 echo "Choose the option to find Area"
