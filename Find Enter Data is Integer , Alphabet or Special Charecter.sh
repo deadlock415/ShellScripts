@@ -1,7 +1,5 @@
 #! /bin/bash
-#Arpit Chalakh
-#Roll No: 44
-#Branch : B2
+
 while :
 do
 	echo "Note:It not work on Mixed Charecter. for Ex S5/@v7"
