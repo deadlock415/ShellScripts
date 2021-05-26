@@ -1,9 +1,5 @@
 #! /bin/bash
 
-#Name:Arpit Chalakh
-#Roll No: 44
-#Batch: B2
-
 echo "Note: Consider each subect mark is out of 100 "
 echo "Enter the marks 5 subjects:"
 read m1 m2 m3 m4 m5
